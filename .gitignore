@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+.osp/
+logs/*
+!logs/.gitkeep
+!logs/.htaccess
+images/avatars/*
+!images/avatars/.gitkeep
+!images/avatars/.htaccess
+*.rar
+*.zip
+.runtime/
+php/config.local.php
